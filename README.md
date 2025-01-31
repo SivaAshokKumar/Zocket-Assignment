@@ -139,6 +139,8 @@ This AI agent predicts stock prices using:
 
 ### Visualization:
 ![Predicted Prices](predicted_prices_plot.png)
+![image](https://github.com/user-attachments/assets/6f83d72f-3850-4268-bb15-355091884ae8)
+
 
 ---
 
@@ -161,6 +163,8 @@ This AI agent predicts stock prices using:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+SAMPLE PREDICTION OF AI AGENT
 
 ---
 
